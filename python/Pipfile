@@ -9,6 +9,7 @@ verify_ssl = true
 publicsuffix2 = "*"
 psl = "*"
 idna = "*"
+publicsuffixlist = "*"
 
 [requires]
 python_version = "3.7"
