@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "d87a8885eae0e45cbac5892efaa0c29ef9cf5e74d21f3ba66ddd1ef50bf4ecf9"
+            "sha256": "c6302ecda27529453287fd8c8f72d08a821fca9610f7709f1f837ad076558e75"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -16,6 +16,13 @@
         ]
     },
     "default": {
+        "dnspy": {
+            "hashes": [
+                "sha256:b015d53906bad731f364abd5c4a4af98eae8024c82f9a844ef53ed6fc63f3056"
+            ],
+            "index": "pypi",
+            "version": "==3.0"
+        },
         "idna": {
             "hashes": [
                 "sha256:c357b3f628cf53ae2c4c05627ecc484553142ca23264e593d327bcde5e9c3407",
@@ -26,7 +33,6 @@
         },
         "psl": {
             "hashes": [
-                "sha256:649427757577f4f9898579ed505768d6ba526f103eda759401f5475393d87dd1",
                 "sha256:e6237f9d7730ea96fe487ce35dd201ddd347816d62f95304cfd61927bb49d964"
             ],
             "index": "pypi",
