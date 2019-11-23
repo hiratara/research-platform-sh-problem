@@ -55,6 +55,10 @@ public suffix: amazonaws.com
 [s1.amazonaws.com]
 root: s1.amazonaws.com
 public suffix: amazonaws.com
+
+[amazonaws.com]
+root: amazonaws.com
+public suffix: com
 ```
 
 ```
@@ -108,6 +112,10 @@ root: amazonaws.com
 public suffix: com
 
 [s1.amazonaws.com]
+root: amazonaws.com
+public suffix: com
+
+[amazonaws.com]
 root: amazonaws.com
 public suffix: com
 ```
@@ -165,6 +173,10 @@ public suffix: com
 [s1.amazonaws.com]
 root: amazonaws.com
 public suffix: com
+
+[amazonaws.com]
+root: amazonaws.com
+public suffix: com
 ```
 
 ```
@@ -218,6 +230,10 @@ root: amazonaws.com
 public suffix: com
 
 [s1.amazonaws.com]
+root: amazonaws.com
+public suffix: com
+
+[amazonaws.com]
 root: amazonaws.com
 public suffix: com
 ```

@@ -15,6 +15,7 @@ for domain in [
     "s3.amazonaws.com",
     "foo.s1.amazonaws.com",
     "s1.amazonaws.com",
+    "amazonaws.com",
 ]:
     print(f"[{domain}]")
     print(f"root: {psl.get_public_suffix(domain)}")
